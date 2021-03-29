@@ -12,7 +12,7 @@ documentation = "https://houqp.github.io/leptess/leptess/index.html"
 
 [dependencies]
 leptonica-sys = {git = "https://github.com/Heliconter/leptonica-sys.git"}
-tesseract-sys = "0.5.2"
+tesseract-sys = {git = "https://github.com/Heliconter/tesseract-sys.git"}
 thiserror = "1"
 
 [dev-dependencies]
